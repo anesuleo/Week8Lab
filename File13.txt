@@ -1,1 +1,2 @@
-This is my new lineThis is an extra line
+This is my new lineThis is an extra lineThis line will be appended
+Appended formatted content: 42 example

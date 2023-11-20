@@ -1,5 +1,6 @@
 package ie.atu;
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
@@ -27,5 +28,6 @@ public class CreateFile {
             System.out.println("An error occurred while creating the file.");
             e.printStackTrace();
         }
+
     }
 }
